@@ -48,11 +48,11 @@
 
         keypad {
             bindings = <
-&kp EQUAL  &kp N1         &kp N2     &kp N3     &kp N4     &kp N5     &trans                                                              &mo 3              &kp N6     &kp KP_NUM            &kp KP_EQUAL           &kp KP_DIVIDE   &kp KP_MULTIPLY  &kp MINUS
-&kp TAB    &kp Q          &kp LC(W)  &kp END    &kp R      &kp T      &none                                                               &none              &kp Y      &kp LC(U)             &kp LC(I)              &kp LC(O)       &kp LC(P)        &kp BSLH
-&kp ESC    &kp HOME       &kp S      &kp LC(D)  &kp LC(F)  &kp G      &none     &kp LEFT_ALT  &kp LEFT_CONTROL      &kp LGUI   &kp RCTRL  &none              &kp LEFT   &kp DOWN              &kp UP_ARROW           &kp RIGHT       &kp MINUS        &kp SQT
-&kp LSHFT  &kp Z          &kp X      &kp LC(C)  &kp RC(V)  &kp LC(B)                          &kp HOME              &kp PLUS                                 &kp LC(N)  &kp LC(M)             &kp LC(COMMA)          &kp LC(PERIOD)  &kp LC(SLASH)    &kp RSHFT
-&mo 2      &kp LC(GRAVE)  &kp CAPS   &kp LEFT   &kp RIGHT             &kp BSPC  &kp LEFT_WIN  &kp K_PLAY_PAUSE      &kp MINUS  &kp ENTER  &kp RIGHT_COMMAND             &kp LC(LEFT_BRACKET)  &kp LC(RIGHT_BRACKET)  &trans          &trans           &mo 2
+&kp EQUAL  &kp N1         &kp N2     &kp N3     &kp N4     &kp N5     &trans                                                              &mo 3             &kp N6     &kp KP_NUM            &kp KP_EQUAL           &kp KP_DIVIDE   &kp KP_MULTIPLY  &kp MINUS
+&kp TAB    &kp Q          &kp LC(W)  &kp END    &kp R      &kp T      &none                                                               &none             &kp Y      &kp LC(U)             &kp LC(I)              &kp LC(O)       &kp LC(P)        &kp BSLH
+&kp ESC    &kp HOME       &kp S      &kp LC(D)  &kp LC(F)  &kp G      &none     &kp LEFT_ALT  &kp LEFT_CONTROL      &kp LGUI   &kp RCTRL  &none             &kp LEFT   &kp DOWN              &kp UP_ARROW           &kp RIGHT       &kp MINUS        &kp SQT
+&kp LSHFT  &kp Z          &kp X      &kp LC(C)  &kp RC(V)  &kp LC(B)                          &kp HOME              &kp PLUS                                &kp LC(N)  &kp LC(M)             &kp LC(COMMA)          &kp LC(PERIOD)  &kp LC(SLASH)    &kp RSHFT
+&mo 2      &kp LC(GRAVE)  &kp CAPS   &kp LEFT   &kp RIGHT             &kp BSPC  &kp LEFT_WIN  &kp K_PLAY_PAUSE      &kp MINUS  &kp ENTER  &kp K_PLAY_PAUSE             &kp LC(LEFT_BRACKET)  &kp LC(RIGHT_BRACKET)  &trans          &trans           &mo 2
             >;
         };
 
