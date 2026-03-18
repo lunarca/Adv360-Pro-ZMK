@@ -42,7 +42,7 @@
 &kp TAB    &kp Q      &kp W     &kp E     &kp R      &kp T   &none                                                                      &tog 2     &kp Y   &kp U             &kp I              &kp O      &kp P      &kp BSLH
 &mo 1      &kp A      &kp S     &kp D     &kp F      &kp G   &none     &kp LEFT_ALT  &kp DEL               &kp LGUI          &kp RCTRL  &none      &kp H   &kp J             &kp K              &kp L      &kp SEMI   &kp SQT
 &kp LSHFT  &kp Z      &kp X     &kp C     &kp V      &kp B                           &kp HOME              &kp GRAVE                               &kp N   &kp M             &kp COMMA          &kp DOT    &kp FSLH   &kp RSHFT
-&mo 2      &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT          &kp BSPC  &kp LCMD      &kp LEFT_CONTROL      &kp LEFT_CONTROL  &kp ENTER  &kp SPACE          &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS  &kp TILDE  &kp ESCAPE
+&mo 2      &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT          &kp BSPC  &kp LCMD      &kp C_PLAY_PAUSE      &kp LEFT_CONTROL  &kp ENTER  &kp SPACE          &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS  &kp TILDE  &kp ESCAPE
             >;
         };
 
@@ -52,7 +52,7 @@
 &kp TAB    &kp RC(Q)      &kp LC(W)  &kp END    &kp LC(R)  &kp LC(T)  &none                                                               &none             &kp LC(Y)  &kp LC(U)             &kp LC(I)              &kp LC(O)       &kp LC(P)        &kp BSLH
 &kp ESC    &kp HOME       &kp LC(S)  &kp LC(D)  &kp LC(F)  &kp LC(G)  &none     &kp LEFT_ALT  &kp LEFT_CONTROL      &kp LGUI   &kp RCTRL  &none             &kp LEFT   &kp DOWN              &kp UP_ARROW           &kp RIGHT       &kp MINUS        &kp SQT
 &kp LSHFT  &kp LC(Z)      &kp LC(X)  &kp LC(C)  &kp RC(V)  &kp LC(B)                          &kp HOME              &kp PLUS                                &kp LC(N)  &kp LC(M)             &kp LC(COMMA)          &kp LC(PERIOD)  &kp LC(SLASH)    &kp RSHFT
-&mo 2      &kp LC(GRAVE)  &kp CAPS   &kp LEFT   &kp RIGHT             &kp BSPC  &kp LEFT_WIN  &kp K_PLAY_PAUSE      &kp MINUS  &kp ENTER  &kp K_PLAY_PAUSE             &kp LC(LEFT_BRACKET)  &kp LC(RIGHT_BRACKET)  &trans          &trans           &mo 2
+&mo 2      &kp LC(GRAVE)  &kp CAPS   &kp LEFT   &kp RIGHT             &kp BSPC  &kp LEFT_WIN  &kp K_PLAY_PAUSE      &kp MINUS  &kp ENTER  &kp C_PLAY_PAUSE             &kp LC(LEFT_BRACKET)  &kp LC(RIGHT_BRACKET)  &trans          &trans           &mo 2
             >;
         };
 
